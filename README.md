@@ -39,4 +39,8 @@ CV dark theme template
 
 ## Mustang CarShop
 
-![watch](https://github.com/laurakciic/UI/blob/master/Mustang/LV2%20-%20exercise.jpg)
+## Web version
+![web](https://github.com/laurakciic/UI/blob/master/Mustang/LV2%20-%20exercise.jpg)
+
+## Mobile version
+![mobile](https://github.com/laurakciic/UI/blob/master/Mustang/LV2%20-%20exercise.jpg)
