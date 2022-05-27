@@ -26,10 +26,10 @@ CV dark theme template
 ## MessageApp
 
 ### Desktop version
-![desktop](https://github.com/laurakciic/UI/blob/master/Messages/Full%20HD.jpg)
+![desktop](https://github.com/laurakciic/UI/blob/master/Messages/Full%20HD.png)
 
 ### Mobile version
-![mobile](https://github.com/laurakciic/UI/blob/master/Messages/iPhone%20XRXS%20Max11.jpg)
+![mobile](https://github.com/laurakciic/UI/blob/master/Messages/iPhone%20XRXS%20Max11.png)
 
 ### Watch version
 ![watch](https://github.com/laurakciic/UI/blob/master/Messages/Android%20Wear.png)
