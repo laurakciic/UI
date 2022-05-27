@@ -3,13 +3,13 @@
 Web app design representing Google Contacts. 
 
 ### Main View
-![Main](Main.png)
+![Main](https://github.com/laurakciic/UI/blob/master/Contacts/Main.png)
 
 ### Contact
-![Contact](Contact.png)
+![Contact](https://github.com/laurakciic/UI/blob/master/Contacts/Contact.png)
 
 ### Empty Contact Form 
-![EmptyContact](EmptyForm.png)
+![EmptyContact](https://github.com/laurakciic/UI/blob/master/Contacts/EmptyForm.png)
 
 ## CV 
 
