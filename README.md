@@ -26,10 +26,10 @@ CV dark theme template
 ## MessageApp
 
 ### Desktop version
-![desktop](https://github.com/laurakciic/UI/blob/master/Messages/Full%20HD.png)
+![desktop](https://github.com/laurakciic/UI/blob/master/Messages/Full%20HD.jpg)
 
 ### Mobile version
-![mobile](https://github.com/laurakciic/UI/blob/master/Messages/iPhone%20XRXS%20Max11.png)
+![mobile](https://github.com/laurakciic/UI/blob/master/Messages/iPhone%20XRXS%20Max11.jpg)
 
 ### Watch version
 ![watch](https://github.com/laurakciic/UI/blob/master/Messages/Android%20Wear.png)
@@ -39,4 +39,4 @@ CV dark theme template
 
 ## Mustang CarShop
 
-![watch](https://github.com/laurakciic/UI/blob/master/Mustang/LV2%20-%20exercise.png)
+![watch](https://github.com/laurakciic/UI/blob/master/Mustang/LV2%20-%20exercise.jpg)
